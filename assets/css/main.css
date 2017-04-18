@@ -1,0 +1,13 @@
+body{
+   background-color: #121700;
+}
+
+header{
+  background-color: #810B0B;
+  padding: 20px;
+  display: inline-block;
+}
+
+a{
+  color: white;
+}
